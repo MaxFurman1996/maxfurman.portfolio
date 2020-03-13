@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://MaxFurman1996.github.io/maxfurman.portfolio",
+  "homepage": "https://maxfurman1996.github.io/maxfurman.portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
